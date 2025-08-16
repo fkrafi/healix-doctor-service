@@ -1,0 +1,8 @@
+/Users/fasihul/Devs/healix-doctor-service/src/main/java/com/healix/doctorservice/DoctorServiceApplication.java
+/Users/fasihul/Devs/healix-doctor-service/src/main/java/com/healix/doctorservice/controller/DoctorController.java
+/Users/fasihul/Devs/healix-doctor-service/src/main/java/com/healix/doctorservice/dto/DoctorSearchResult.java
+/Users/fasihul/Devs/healix-doctor-service/src/main/java/com/healix/doctorservice/dto/MetaDto.java
+/Users/fasihul/Devs/healix-doctor-service/src/main/java/com/healix/doctorservice/dto/SearchResponse.java
+/Users/fasihul/Devs/healix-doctor-service/src/main/java/com/healix/doctorservice/model/Doctor.java
+/Users/fasihul/Devs/healix-doctor-service/src/main/java/com/healix/doctorservice/repository/DoctorRepository.java
+/Users/fasihul/Devs/healix-doctor-service/src/main/java/com/healix/doctorservice/service/DoctorService.java
